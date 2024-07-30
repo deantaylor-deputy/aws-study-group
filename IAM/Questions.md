@@ -1,0 +1,9 @@
+- How does IAM implement the principle of least privilege, and why is this important in AWS environments?
+- What are the key differences between IAM Users, Groups, and Roles? Provide examples of when you would use each.
+- Explain the structure of an IAM policy. How do you determine the effective permissions when multiple policies are attached to a user?
+- What is the purpose of IAM Access Advisor, and how can it help improve security in your AWS account?
+- Discuss the best practices for securing the AWS root account. Why is it crucial to follow these practices?
+- How can you use IAM Roles to provide secure, temporary access to AWS resources across different AWS accounts?
+- What are Service Control Policies (SCPs) in AWS Organizations, and how do they interact with IAM policies?
+- Explain the concept of IAM permission boundaries. How do they differ from traditional IAM policies?
+- What is AWS Security Token Service (STS), and how does it relate to IAM's temporary security credentials?

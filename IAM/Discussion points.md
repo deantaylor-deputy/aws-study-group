@@ -1,0 +1,27 @@
+- IAM Users, Groups, and Roles
+    - Understanding the differences and use cases
+    - Best practices for user and group management
+- IAM Policies
+    - JSON policy structure
+    - Types of policies (identity-based, resource-based, permission boundaries)
+    - Policy evaluation logic
+- Multi-Factor Authentication (MFA)
+    - Importance and implementation
+    - Different types of MFA devices supported
+- IAM Security Tools
+    - IAM Credentials Report
+    - IAM Access Advisor
+- IAM Best Practices
+    - Principle of least privilege
+    - Root account security
+    - Rotating credentials
+- Cross-account access
+    - How to set up and manage cross-account roles
+- AWS Organizations and Service Control Policies (SCPs)
+    - Basic understanding and their relation to IAM
+- Temporary Security Credentials
+    - Understanding and use cases for temporary credentials
+- IAM Identity Center (formerly AWS Single Sign-On)
+    - Basic concepts and integration with IAM
+- AWS Security Token Service (STS)
+    - Understanding its role in temporary credential management
