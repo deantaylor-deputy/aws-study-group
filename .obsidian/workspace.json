@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "791855ff69d060b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b652af650dca684e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b8a197b47750bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2-SAA/Play ground.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11349b7edcd6b745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2-SAA/Question in real exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04a8301ac8468bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "25d7c1ddac163a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be22c1a4dd753571",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60b5b9e9f609527a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c31955402b9c851",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b84d5d8ef255bcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1017077ab1b6c2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3451936a2cfd2dde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EC2-SAA/Play ground.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dad451175d925620",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EC2-SAA/Play ground.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36a10917b1748648",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bea31f2f15dd029",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EC2-SAA/Play ground.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b8a197b47750bc6",
+  "lastOpenFiles": [
+    "EC2-SAA/Question in real exam.md",
+    "EC2-SAA/Questions.md",
+    "EC2-SAA/SAA Level KeyPoints.md",
+    "EC2-SAA/Play ground.md",
+    "Untitled.md",
+    "EC2 Fundamentals/EC2 Fundamentals Key Points Summary.md",
+    "EC2 Fundamentals/EC2 Questions.md",
+    "EC2 Fundamentals/Fundamentals questions.md",
+    "EC2 Fundamentals/Run basic server.md"
+  ]
+}
