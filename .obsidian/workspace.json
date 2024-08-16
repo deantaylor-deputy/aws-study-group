@@ -8,26 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b8a197b47750bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EC2-SAA/Play ground.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "11349b7edcd6b745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2-SAA/Question in real exam.md",
-                "mode": "source",
-                "source": false
+                "file": "EC2-SAA/SAA Level KeyPoints.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EC2-SAA/Play ground.md",
+                "file": "EC2-SAA/SAA Level KeyPoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EC2-SAA/Play ground.md",
+                "file": "EC2-SAA/SAA Level KeyPoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EC2-SAA/Play ground.md"
+                "file": "EC2-SAA/SAA Level KeyPoints.md"
               }
             }
           }
@@ -158,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b8a197b47750bc6",
+  "active": "11349b7edcd6b745",
   "lastOpenFiles": [
-    "EC2-SAA/Question in real exam.md",
     "EC2-SAA/Questions.md",
     "EC2-SAA/SAA Level KeyPoints.md",
+    "EC2 Fundamentals/EC2 Questions.md",
+    "EC2 Fundamentals/EC2 Fundamentals Key Points Summary.md",
+    "EC2-SAA/Question in real exam.md",
     "EC2-SAA/Play ground.md",
     "Untitled.md",
-    "EC2 Fundamentals/EC2 Fundamentals Key Points Summary.md",
-    "EC2 Fundamentals/EC2 Questions.md",
     "EC2 Fundamentals/Fundamentals questions.md",
     "EC2 Fundamentals/Run basic server.md"
   ]
