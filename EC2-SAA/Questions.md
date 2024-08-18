@@ -55,21 +55,3 @@
 
 > [!note]- Answer
 > Hibernation preserves the in-memory state (RAM) of the instance, allowing for faster startup and resumption of processes.
-
-## 9. Public IP
-
-**Q: What's the main advantage of hibernating an EC2 instance instead of stopping it?**
-
-> [!note]- Answer
-> When you stop an EC2 instance, it loses its public IP address. When you start the instance again, it is assigned a new public IP address. This means the public IP address of an EC2 instance can change over time.
-
-## 8. Elastic IP
-
-**Q: What's the main advantage of hibernating an EC2 instance instead of stopping it?**
-
-> [!note]- Answer
-> - It's static and doesn't change when you stop and start your instance.
-> - You can easily remap it to another instance in case of instance failure.
-> - You retain the IP address as long as you want, even if not associated with a running instance.
-> - It allows for DNS stability in your applications.
-

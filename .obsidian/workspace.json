@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2-SAA/SAA Level KeyPoints.md",
-                "mode": "preview",
+                "file": "EC2-SAA/Questions.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EC2-SAA/SAA Level KeyPoints.md",
+                "file": "EC2-SAA/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EC2-SAA/SAA Level KeyPoints.md",
+                "file": "EC2-SAA/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EC2-SAA/SAA Level KeyPoints.md"
+                "file": "EC2-SAA/Questions.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "11349b7edcd6b745",
   "lastOpenFiles": [
-    "EC2-SAA/Questions.md",
     "EC2-SAA/SAA Level KeyPoints.md",
+    "EC2-SAA/Questions.md",
     "EC2 Fundamentals/EC2 Questions.md",
     "EC2 Fundamentals/EC2 Fundamentals Key Points Summary.md",
     "EC2-SAA/Question in real exam.md",
